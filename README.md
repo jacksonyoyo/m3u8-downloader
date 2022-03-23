@@ -135,6 +135,10 @@
 
 ![](http://upyun.luckly-mjw.cn/Assets/m3u8-download/15.jpeg)
 
+### - 或由此安裝 (https://greasyfork.org/zh-TW/scripts/441953-m3u8-downloader)
+
+### - 或
+
 - 「跳转下载」即新开页面，打开本工具页面，自动携带并解析目标地址
 - 「注入下载」为解决跨域而生，直接将代码注入到当前视频网站，进行视频下载
 - [插件源码点这里](https://github.com/Momo707577045/m3u8-downloader/blob/master/tamper-monkey.js)
@@ -156,9 +160,6 @@
   - 得到如下结果，即为添加成功
 
     ![](http://upyun.luckly-mjw.cn/Assets/m3u8-download/20.jpeg)
-    
-
-  ### - 或由此安裝 (https://greasyfork.org/zh-TW/scripts/441953-m3u8-downloader)
 
 ### 完结撒花，感谢阅读。
 ![](http://upyun.luckly-mjw.cn/Assets/m3u8-download/14.jpeg)
