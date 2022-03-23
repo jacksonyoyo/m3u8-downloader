@@ -135,7 +135,7 @@
 
 ![](http://upyun.luckly-mjw.cn/Assets/m3u8-download/15.jpeg)
 
-### - 或由此安裝 (https://greasyfork.org/zh-TW/scripts/441953-m3u8-downloader)
+### - 由此安裝 (https://greasyfork.org/zh-TW/scripts/441953-m3u8-downloader)
 
 ### - 或
 
